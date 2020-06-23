@@ -1,0 +1,13 @@
+{
+  "name": "generator-lbj-vue",
+  "version": "1.0.8",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "global": "^4.4.0",
+    "yeoman-generator": "^4.10.1"
+  },
+  "files": [
+    "generators"
+  ]
+}
