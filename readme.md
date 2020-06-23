@@ -39,4 +39,9 @@
 2. 说明
 
    - 视频是在公司录的，所以没有声音
+   
+   - 视频地址： https://v.youku.com/v_show/id_XNDcyNDk3NjM4MA==.html
+   
    - grunt 的作业最终还是没有实现
+   
+     
